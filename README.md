@@ -1,6 +1,6 @@
 # RISC Zero Multi Payment Hashes
 
-`risc0-mph` allows you to create a prove that you own preimages that add to up to a single preimage. This can be used to allow lightning payments to be linked to a single preimage to unlock an onchain payment.
+`risc0-mph` allows you to create a proof that you own preimages that add to up to a single preimage. This can be used to allow lightning payments to be linked to a single preimage to unlock an onchain payment.
 
 
 The guest(zkp program) can be found at [`./methods/guest/src/bin/mph.rs`](./methods/guest/src/bin/mph.rs).
